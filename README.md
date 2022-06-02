@@ -7,7 +7,7 @@
 * Save docker-compose.yml to a directory.
 * Open terminal to that specific directory.
 * Start **docker service**.
-* Execute **docker-clone up**, this will enable the drupal and postgres service.
+* Execute **docker-cmpose up**, this will enable the drupal and postgres service.
 * To use drupal go to **host ip address:8080** using browser.
 * At the time of setting up database select **database type** as **PostgreSQL**.
 * **Database name** is **postgres**.
